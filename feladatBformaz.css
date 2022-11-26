@@ -1,0 +1,78 @@
+body
+{
+    background-color: #9cee59;
+    color: #000000;
+}
+
+a, a:active, a:visited
+{
+    color: #999999;
+}
+
+#nagytabla
+{
+    background-color: #509050;
+    padding: 0px;
+    border-spacing: 0px;
+    border: none;
+    width: 980px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#kistabla
+{
+    background-color: white;
+    border: none;
+    padding: 0px;
+    border-spacing: 1px;
+    width: 940px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.sor
+{
+    text-align: center;
+    background-color: black;
+    height: 40px;
+    vertical-align: middle;
+    color: white;
+}
+
+.fkozep
+{
+    vertical-align: top;
+}
+
+#kep1
+{
+    width: 940px;
+    height: 200px;
+}
+
+#kep2
+{
+    float: right;
+    border: 1px solid black;
+    height: 540px;
+    width: 307px;
+    margin: 0px 5px;
+}
+
+.felkover
+{
+    font-weight: bold;
+}
+
+.nyilak
+{
+    height: 50px;     
+}
+
+#nyil2
+{
+    float: right;
+}
+
+

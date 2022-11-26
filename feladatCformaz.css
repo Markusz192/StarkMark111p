@@ -1,0 +1,126 @@
+body{
+  background-image: url('hatterkep.png');
+  padding: 15px;
+  color: #1F3F5F;
+  line-height: 125%;
+}
+
+h1{
+  text-align: center;
+  margin: 10px 0px 40px;
+}
+
+h1, h2{
+  font-variant: small-caps;
+  color: #3F4F5F;
+  text-align: center;
+}
+
+.bevezeto{
+  margin: 10px 100px;
+  text-align: center;
+  background-color: #EBEBEB;
+  padding: 10px 35px;
+  font-size: 75%;
+  border-top: 1px solid #3F4F5F;
+  border-bottom: 1px solid #3F4F5F;
+}
+
+#brikettek{
+  width: 90%;
+  max-width: 500px;
+}
+
+p{
+  text-align: justify;
+}
+
+p:first-letter{
+  margin-left:45px;
+}
+
+#presek{
+  background-color: #EBEBEB;
+  width: 230px;
+  margin: 0px 15px;
+  text-align: center;
+  font-style: italic;
+  font-size: 75%;
+  padding: 5px;
+  border-left: 1px solid #3F4F5F;
+  border-right: 1px solid #3F4F5F;
+}
+
+#presek img{
+  width: 140px;
+  margin-top: 20px;
+}
+
+.kiemelt{
+  font-weight: bold;
+  font-style: italic;
+  text-align: center;
+}
+
+li{
+  margin-top: 10px;
+}
+
+#headerkep
+{
+  margin-top: 50px;
+}
+
+header
+{
+  margin-bottom: 20px;
+}
+
+#kozep
+{
+  display: flex; 
+  justify-content: center;
+}
+
+#lablec
+{
+  text-align: center;
+  padding: 10px;
+}
+
+.gomb, .gomb:hover
+{ 
+background-color: #343a40; 
+padding: 10px;
+color: white; 
+font-family: arial; 
+font-size: 40px; 
+text-decoration: none; 
+} 
+
+#nyil
+{ 
+  display: flex; 
+  justify-content: space-between; 
+} 
+
+#szoveg
+{
+  text-align: justify;
+}
+
+section
+{
+  margin-bottom: 30px;
+}
+
+footer
+{
+  color: white;
+  margin: 0px;
+}
+
+.beles
+{
+  padding: 0;
+}
